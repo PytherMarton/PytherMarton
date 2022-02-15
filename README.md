@@ -1,9 +1,9 @@
 ### Hi there, I'm Peter Marton 👋
 
 - 🔭 I’m currently looking for a Junior Software Engineer, Junior Software Developer, Junior Web Developer or Apprenticeship role.
-- 🌱 Striving to get better every day
-- 📫 You can reach me via email at `martonpeter18@gmail.com`
--  ⚡ Fun fact: Did you know that, he first computer “bug” was an actual real-life bug
+- 🌱 Striving to get better every day.
+- 📫 You can reach me via email at `martonpeter18@gmail.com`.
+-  ⚡ Fun fact: Did you know that, he first computer “bug” was an actual real-life bug 🐛.
 
 <!--
 **PytherMarton/PytherMarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
