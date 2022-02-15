@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Peter Marton' github stats](https://github-readme-stats.vercel.app/api?username=jocovass&theme=tokyonight)](https://github.com/jocovass/github-readme-stats )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocovass&layout=compact)](https://github.com/jocovass/github-readme-stats)
+[![Peter Marton' github stats](https://github-readme-stats.vercel.app/api?username=pythermarton&theme=tokyonight)](https://github.com/pythermarton/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythermarton&layout=compact)](https://github.com/pythermarton/github-readme-stats)
